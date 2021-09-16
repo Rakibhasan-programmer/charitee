@@ -61,14 +61,13 @@ header{
     background-color: #f15b43;
     color: #fff;
 }
-.second-section-h2{
+.second-section-h2, .third-section-h2{
     color: #263b5c;
     font-size: 46px;
-    display: block;
     font-weight: 500;
     line-height: 1.2;
 }
-.second-section-p{
+.second-section-p, .third-section-p{
     color: #777;
     font-size: 18px;
     font-weight: 300;
