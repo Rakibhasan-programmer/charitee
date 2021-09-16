@@ -33,3 +33,47 @@
 header{
     height: 100vh;
 }
+/* main section */
+.btn-2{
+    background-color: #f15b43;
+    color: #fff;
+    padding: 11px 20px;
+    font-size: 16px;
+    border-radius: 0;
+    font-weight: 400;
+    text-transform: capitalize;
+    border: 1px solid transparent;
+}
+.btn-2:hover{
+    background-color: transparent;
+    color: black;
+    border: 2px solid #f15b43;
+}
+.btn-3{
+    border: 2px solid #f15b43;
+    padding: 11px 20px;
+    font-size: 16px;
+    border-radius: 0;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+.btn-3:hover{
+    background-color: #f15b43;
+    color: #fff;
+}
+.second-section-h2{
+    color: #263b5c;
+    font-size: 46px;
+    display: block;
+    font-weight: 500;
+    line-height: 1.2;
+}
+.second-section-p{
+    color: #777;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 1.5;
+}
+.spacing{
+    letter-spacing: 3px;
+}
