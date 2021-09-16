@@ -1,3 +1,35 @@
 *{
     font-family: 'Roboto', sans-serif;
 }
+.background-img{
+    background-image: url('/images/bg.webp');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.title{
+    font-size: 70px;
+    font-weight: 500;
+    margin-bottom: 20px;
+    color: #fff;
+    line-height: 1;
+    letter-spacing: -.05em;
+}
+.nav-button{
+    background-color: #f15b43;
+    color: #fff!important;
+    padding: 11px 20px;
+    font-size: 16px;
+    border-radius: 0;
+    font-weight: 400;
+    text-transform: capitalize;
+    border: 1px solid transparent;
+    display: inline-block;
+}
+.nav-button:hover{
+    background-color: rgba(0, 0, 0, 0.281);
+    border: 2px solid white;
+}
+header{
+    height: 100vh;
+}
