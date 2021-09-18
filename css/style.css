@@ -49,7 +49,14 @@ header{
     color: black;
     border: 2px solid #f15b43;
 }
-.btn-3{
+.btn-4:hover{
+    background-color: #f15b43;
+    color: #fff;
+}
+.btn-4{
+    color: #f15b43;
+}
+.btn-3, .btn-4{
     border: 2px solid #f15b43;
     padding: 11px 20px;
     font-size: 16px;
