@@ -76,3 +76,17 @@ header{
 .spacing{
     letter-spacing: 3px;
 }
+/* card section */
+.extra-h5{
+    color: #263b5c;
+    font-size: 26px;
+    font-weight: 500;
+}
+.card-p{
+    color: #777;
+    font-weight: 300;
+    line-height: 1.5;
+}
+.card:hover{
+    border: 1px solid #f15b43;
+}
